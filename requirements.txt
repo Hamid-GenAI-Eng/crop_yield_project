@@ -1,1 +1,10 @@
-
+fastapi 
+uvicorn 
+pydantic
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+matplotlib
+plotly
